@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/07/27 06:31:32.000.239,=C:\Users\Christian\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/27 22:19:32.000.613,=C:\Users\Christian\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/30 08:52:07.000.201,=C:\Users\Christian\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/30 19:22:13.000.718,=C:\Users\Christian\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/30 19:22:43.000.062,C:\Users\Christian\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Christian\Desktop\Fontes\Arvore\UArvore.dfm</Transaction>
+    <Transaction>2018/08/30 19:22:43.000.062,C:\Users\Christian\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Christian\Desktop\Fontes\Arvore\UArvore.pas</Transaction>
+    <Transaction>2018/08/30 19:22:55.000.024,C:\Users\Christian\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Christian\Desktop\Fontes\Arvore\PArvore.dproj</Transaction>
+    <Transaction>2018/08/30 19:23:16.000.610,=C:\Users\Christian\Desktop\Fontes\Arvore\Unit1.pas</Transaction>
+    <Transaction>2018/08/30 19:23:39.000.463,C:\Users\Christian\Desktop\Fontes\Arvore\Unit1.pas=C:\Users\Christian\Desktop\Fontes\Arvore\EstruturaArvore.pas</Transaction>
+  </Transactions>
+</BorlandProject>
